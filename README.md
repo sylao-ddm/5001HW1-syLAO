@@ -1,4 +1,4 @@
-Please type Ctrl+Alt+T to enter Ubuntu Terminal and then try the bash scripts in the test file downloadable from this github.
+Please type Ctrl+Alt+T to enter Ubuntu Terminal and then try the bash scripts in the text file downloadable from this github.
 
 The bash scripts are also shown here below and in the pdf report file submitted via canvas.
 
